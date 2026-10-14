@@ -35,25 +35,12 @@ I work with **Windows systems, troubleshooting, software support**, and build mo
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aristache-labs&theme=github-compact&hide_border=true"
-  alt="Adrian's GitHub Activity Graph"
-/>
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/aristache-labs">
-  <img src="https://img.shields.io/badge/GitHub-aristache-labs-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-aristache--labs-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:adrian.cristache@gmail.com">
