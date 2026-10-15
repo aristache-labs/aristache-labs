@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/aristache-labs/portfolio-nextjs/refs/heads/master/public/brand/logo-horizontal.svg" alt="Cristache Adrian"><br/>
+<img src="https://raw.githubusercontent.com/aristache-labs/portfolio-nextjs/refs/heads/master/public/brand/logo-horizontal.svg" width="500" alt="Cristache Adrian"><br/>
 # 👋 Hi, I'm Adrian
 
 ### IT Technician • Mobile & Web Developer
